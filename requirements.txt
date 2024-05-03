@@ -1,0 +1,12 @@
+colorama
+configparser
+mypy-extensions
+pathspec
+pickle-mixin
+regex
+selenium
+toml
+typed-ast
+typing-extensions
+urllib3
+fake-useragent
